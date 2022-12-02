@@ -1,0 +1,1 @@
+/home/maco/Documents/git-repos/advent-of-code-2022/day2-rock-paper-scissors/target/debug/day2-rock-paper-scissors: /home/maco/Documents/git-repos/advent-of-code-2022/day2-rock-paper-scissors/src/main.rs
